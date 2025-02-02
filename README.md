@@ -45,7 +45,9 @@
   <img src="https://streak-stats.demolab.com?user=T0fuHasuu&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=10&order=3" height="220" alt="streak graph" />
 </div>
 
-### 📌 Most Updates
+# 📌 Most Updates
+
+### 
 <div align="center">
   <a href="https://github.com/T0fuHasuu/Python">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=T0fuHasuu&repo=Python&theme=dark" />
@@ -54,11 +56,14 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=T0fuHasuu&repo=CheatSheet&theme=dark" />
   </a>
 </div>
+###
 
-### 📊 Contributions  
+# 📊 Contributions  
+
+### 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T0fuHasuu&theme=github_dark" />
 </div>
-
+###
 
 
