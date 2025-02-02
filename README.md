@@ -5,3 +5,4 @@
 # 📊 GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/T0fuHasuu?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 ![T0fuHasuu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=T0fuHasuu&theme=tokyonight&hide_border=true)
+![T0fuHasuu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T0fuHasuu&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
