@@ -22,9 +22,15 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=T0fuHasuu.T0fuHasuu&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=T0fuHasuu.T0fuHasuu&" />
 </div>
-<h1 align="center">💫 I'm Tofu</h1>
+
+<h1 align="center">
+  <a href="https://myintroduction-ecru.vercel.app/" target="_blank" style="text-decoration: none; color: inherit;">
+    💫 I'm Tofu
+  </a>
+</h1>
+
 
 ###
 
@@ -40,6 +46,5 @@
 </div>
 
 ###
-### About [Me](https://myintroduction-ecru.vercel.app/)
 
 
