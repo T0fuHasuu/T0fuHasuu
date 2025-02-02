@@ -40,3 +40,5 @@
 </div>
 
 ###
+
+![](https://github-contributor-stats.vercel.app/api?username=T0fuHasuu&limit=5&theme=aura&combine_all_yearly_contributions=true)
