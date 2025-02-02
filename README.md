@@ -5,5 +5,4 @@
 
 ![T0fuHasuu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=T0fuHasuu&theme=tokyonight&hide_border=true)
 ---
-![Snake animation](https://github.com/T0fuHasuu/T0fuHasuu/blob/output/snake.svg)
-
+<img alt="github-snake" src="(https://github.com/T0fuHasuu/T0fuHasuu/blob/output/snake.svg" />
