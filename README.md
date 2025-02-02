@@ -1,4 +1,4 @@
-![Pic](https://github.com/T0fuHasuu/T0fuHasuu/blob/main/photo_2025-02-03_02-09-00.jpg)
+![Pic](https://github.com/T0fuHasuu/T0fuHasuu/blob/main/pic.jpg)
 
 # 💫 I'm Tofu
 
