@@ -47,7 +47,14 @@
 
 ###
 ## 📌 Pinned Repositories
-[![Pinned Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=T0fuHasuu&theme=github_dark)](https://github.com/T0fuHasuu?tab=repositories)
-![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T0fuHasuu&theme=github_dark)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=T0fuHasuu&repo=Python&theme=dark)](https://github.com/T0fuHasuu/Python)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=T0fuHasuu&repo=CheatSheet&theme=dark)](https://github.com/T0fuHasuu/CheatSheet)
+
+## 📊 GitHub Contributions  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=T0fuHasuu&theme=dark&hide_border=true)  
+
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T0fuHasuu&theme=github_dark)  
+
+🏆 **141 Contributions in the Last Year**
 
 
