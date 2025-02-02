@@ -13,10 +13,11 @@
 
 ###
 
-<h1 align="center">💫 I'm Tofu</h1>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=T0fuHasuu.T0fuHasuu&"  />
 </div>
+<h1 align="center">💫 I'm Tofu</h1>
+
 ###
 
 # Tools 💻 :
