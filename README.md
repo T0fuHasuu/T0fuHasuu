@@ -46,5 +46,8 @@
 </div>
 
 ###
+## 📌 Pinned Repositories
+[![Pinned Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=T0fuHasuu&theme=github_dark)](https://github.com/T0fuHasuu?tab=repositories)
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T0fuHasuu&theme=github_dark)
 
 
