@@ -1,4 +1,3 @@
-## Hi there 👋
 ![huh](https://media1.tenor.com/m/zlKoX5HPPu8AAAAC/cat-annoyed.gif)
 
 <!--
