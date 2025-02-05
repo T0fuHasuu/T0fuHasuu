@@ -42,8 +42,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T0fuHasuu&show_icons=true&theme=aura&hide_border=true&border_radius=10" height="220" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=T0fuHasuu&theme=aura&hide_border=true&border_radius=15&custom_title=Streak Stats" height="180" alt="GitHub Streak"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=T0fuHasuu&theme=aura" height="180" alt="Total Contributions"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 # 📌 Most Updates
