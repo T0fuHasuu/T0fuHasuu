@@ -42,8 +42,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=T0fuHasuu&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=10&order=3" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=T0fuHasuu&show_icons=true&theme=aura&hide_border=true&border_radius=10" height="220" alt="GitHub Stats" />
 </div>
+
 
 # 📌 Most Updates
 
