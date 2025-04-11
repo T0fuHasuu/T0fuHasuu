@@ -26,7 +26,7 @@
 </div>
 
 <h1 align="center">
-  <a href="https://myintroduction-ecru.vercel.app/" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/T0fuHasuu/Achievement/blob/main/README.md" target="_blank" style="text-decoration: none; color: inherit;">
     💫 I'm Tofu
   </a>
 </h1>
