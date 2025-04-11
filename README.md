@@ -45,7 +45,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://streak-stats.demolab.com?user=T0fuHasuu&theme=aura&hide_border=true&border_radius=15&custom_title=Streak Stats" height="180" alt="GitHub Streak"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0fuHasuu&layout=compact&theme=dark&hide_border=true&border_radius=15" height="180" alt="Top Languages"/>
       </td>
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=T0fuHasuu&theme=aura" height="180" alt="Total Contributions"/>
@@ -53,6 +53,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
