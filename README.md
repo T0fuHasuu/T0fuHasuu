@@ -43,45 +43,9 @@
 ![Arduino](https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 
-# Grindin 🔥
-
-###
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0fuHasuu&layout=compact&theme=dark&hide_border=true&border_radius=15" height="180" alt="Top Languages"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=T0fuHasuu&theme=aura" height="180" alt="Total Contributions"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
-
-# 📌 Most Updates
-
-
-<div align="center">
-  <a href="https://github.com/T0fuHasuu/Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T0fuHasuu&repo=Python&theme=dark" />
-  </a>
-  <a href="https://github.com/T0fuHasuu/CheatSheet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=T0fuHasuu&repo=CheatSheet&theme=dark" />
-  </a>
-</div>
-
-
-# 📊 Contributions  
-
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T0fuHasuu&theme=github_dark" />
-</div>
 
 
 
