@@ -33,6 +33,12 @@
 
 
 # Tools 💻 :
+![Wireshark](https://img.shields.io/badge/Wireshark-0080FF?style=flat&logo=wireshark&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-ff5a5f?style=flat)
+![Zeek](https://img.shields.io/badge/Zeek-1f73b7?style=flat)
+![Splunk](https://img.shields.io/badge/Splunk-191919?style=flat&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-0077b6?style=flat)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
