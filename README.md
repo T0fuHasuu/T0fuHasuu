@@ -1,94 +1,47 @@
-<h1 align="center">Tofu</h1>
-<h3 align="center">Blue Team • SOC Analyst • Detection Engineering</h3>
+![Pic](https://github.com/T0fuHasuu/T0fuHasuu/blob/main/pic.jpg)
 
-<p align="center">
-Cybersecurity student specializing in defensive operations, threat detection, and incident response.
-</p>
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/%20thy-dayuth-willhandleit" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@dayuthdesuuu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://discordapp.com/users/782063485688873010" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://t.me/t0fuHasuu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
-## About Me
+###
 
-Focused on **Blue Team operations** and practical defensive security:
+###
 
-- SOC monitoring and alert triage
-- Incident response and containment
-- Threat hunting with hypothesis-driven methodology
-- Detection engineering and rule tuning
-- Log analysis and correlation
-- Security automation with Python
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=T0fuHasuu.T0fuHasuu&" />
+</div>
 
----
+<h1 align="center">
+  <a href="https://github.com/T0fuHasuu/Achievement/blob/main/README.md" target="_blank" style="text-decoration: none; color: inherit;">
+    💫 I'm Tofu
+  </a>
+</h1>
 
-## Core Capabilities
 
-**Security Operations (SOC)**
-- Log ingestion and normalization  
-- Alert validation and false-positive reduction  
-- SIEM query development  
+# Tools 💻 :
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) 
+![Arduino](https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-**Incident Response**
-- Host/network containment  
-- Evidence collection and basic forensics  
-- Root cause identification  
 
-**Threat Hunting**
-- IOC pivoting and enrichment  
-- Behavioral-based hunting  
-- Query-based investigation across datasets  
 
-**Detection Engineering**
-- Sigma rule creation  
-- SIEM parser development  
-- Alert logic optimization  
 
----
 
-## Technical Stack
 
-**Languages**
-- Python  
-- C++  
-- Bash  
-
-**Security & Monitoring**
-- Wireshark  
-- Suricata  
-- Zeek  
-- Wazuh  
-- Splunk  
-- Elastic Stack  
-
-**Backend / Automation**
-- FastAPI  
-
----
-
-## Projects
-
-- **Detection Rule Lab**  
-  Custom detection rules and parser tuning to reduce false positives and improve signal quality.
-
-- **Incident Response Playbooks**  
-  Structured IR procedures for Windows and Linux compromise scenarios.
-
-- **Threat Hunting Toolkit**  
-  Python-based log enrichment and IOC pivot automation.
-
-Full repository list:  
-https://github.com/T0fuHasuu/Achievement
-
----
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/thy-dayuth-willhandleit  
-- YouTube: https://www.youtube.com/@dayuthdesuuu  
-- Discord: https://discordapp.com/users/782063485688873010  
-- Telegram: https://t.me/t0fuHasuu  
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=T0fuHasuu.T0fuHasuu" />
-</p>
