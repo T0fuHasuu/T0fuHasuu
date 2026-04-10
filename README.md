@@ -43,4 +43,3 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) 
 ![Arduino](https://img.shields.io/badge/arduino-00979D?style=flat&logo=arduino&logoColor=white)
-
